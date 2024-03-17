@@ -49,7 +49,7 @@ export function SearchBar() {
   );
 }
 
-function SearchIcon(props) {
+function SearchIcon(props: any) {
   return (
     <svg
       {...props}
@@ -69,7 +69,7 @@ function SearchIcon(props) {
   );
 }
 
-function SlidersIcon(props) {
+function SlidersIcon(props: any) {
   return (
     <svg
       {...props}

@@ -73,7 +73,7 @@ export default function Login() {
   );
 }
 
-function EyeOffIcon(props) {
+function EyeOffIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -95,7 +95,7 @@ function EyeOffIcon(props) {
   );
 }
 
-function EyeIcon(props) {
+function EyeIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}

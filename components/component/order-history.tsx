@@ -79,7 +79,11 @@ export function Navbar({ isOpen, path }: { isOpen: boolean; path: string }) {
   );
 }
 
-function ArrowLeftIcon(props) {
+interface ArrowLeftIconProps {
+  className?: string;
+}
+
+function ArrowLeftIcon(props: ArrowLeftIconProps) {
   return (
     <svg
       {...props}
@@ -99,7 +103,11 @@ function ArrowLeftIcon(props) {
   );
 }
 
-function CloudLightningIcon(props) {
+interface CloudLightningIconProps {
+  className?: string;
+}
+
+function CloudLightningIcon(props: CloudLightningIconProps) {
   return (
     <svg
       {...props}
@@ -119,7 +127,11 @@ function CloudLightningIcon(props) {
   );
 }
 
-function HomeIcon(props) {
+interface HomeIconProps {
+  className?: string;
+}
+
+function HomeIcon(props: HomeIconProps) {
   return (
     <svg
       {...props}
@@ -139,7 +151,7 @@ function HomeIcon(props) {
   );
 }
 
-function SearchIcon(props) {
+function SearchIcon(props: any) {
   return (
     <svg
       {...props}
@@ -159,7 +171,7 @@ function SearchIcon(props) {
   );
 }
 
-function TrainTrackIcon(props) {
+function TrainTrackIcon(props: any) {
   return (
     <svg
       {...props}

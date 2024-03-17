@@ -24,8 +24,6 @@ export default function Home() {
             className="mt-4"
             height={60}
             src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSZMQ7g-63j-of7PdluFwp84-2kfHrHmohHjBvjsBf8P_M8U88UknjwpZt9oEvkMMawfjILAqNq-ds2Tecc2KAxNXsmsayuPlKoIkrRj84lkBYTfdKQL6p3yMSYzIS6YySYXi6DzBcAWw&usqp=CAchttps://s.turbifycdn.com/aah/movadobaby/rolex-submariner-date-steel-yellow-gold-men-s-watch-126613lb-0002-44.jpg"
-            layout="responsive"
-            objectFit="cover"
             width={60}
           />
         </div>
@@ -37,8 +35,6 @@ export default function Home() {
                 alt="Omega Speedmaster"
                 height={40}
                 src="https://cdn-dpppa.nitrocdn.com/cYpwxKyuMscTskFbAPIBUstvxqJyheAU/assets/images/optimized/rev-b3a1416/loro.ca/wp-content/uploads/2023/04/21030422003001.png"
-                layout="fixed"
-                objectFit="cover"
                 width={40}
               />
               <div>
@@ -54,8 +50,6 @@ export default function Home() {
                 alt="Tag Heuer Carrera"
                 height={40}
                 src="https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dw1afd8907/TAG_Heuer_Carrera/CBN2A1A.FC6537/CBN2A1A.FC6537_1000.png?impolicy=resizeTrim&width=884&height=1106"
-                layout="fixed"
-                objectFit="cover"
                 width={40}
               />
               <div>
@@ -71,8 +65,6 @@ export default function Home() {
                 alt="Seiko Presage"
                 height={40}
                 src="https://m.media-amazon.com/images/I/61N72k5YYDL._AC_SY879_.jpg"
-                layout="fixed"
-                objectFit="cover"
                 width={40}
               />
               <div>
