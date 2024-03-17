@@ -14,7 +14,7 @@ export default function Home() {
               </h3>
               <div className="text-gray-600">
                 <p className="mb-1">Rolex Submariner</p>
-                <p className="mb-1">Luxury Diver's Watch</p>
+                <p className="mb-1">Luxury Diver&apos;s Watch</p>
               </div>
             </div>
             <div className="text-lg font-semibold">$5999.99</div>
